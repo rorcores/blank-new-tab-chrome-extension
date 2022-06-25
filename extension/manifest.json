@@ -1,0 +1,12 @@
+{
+  "name": "Blank New Tab - Dark Mode",
+  "description": "Changes your new tab to be a clean black background",
+  "version": "1.0",
+  "chrome_url_overrides": {
+    "newtab": "new_tab.html"
+  },
+   "icons": {
+      "128": "logo-128.png"
+   },
+  "manifest_version": 3
+}
